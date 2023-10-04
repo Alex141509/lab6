@@ -3,6 +3,9 @@ td, th {
   color:pink;
   font-style: italic;
   }
+body {
+    background: #12305e;
+}
 th{
   font-size: larger;
 }
