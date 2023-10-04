@@ -1,6 +1,6 @@
 td, th {
 	border: 3px solid white;
-  color:white;
+  color:pink;
   font-style: italic;
   }
 th{
@@ -17,8 +17,8 @@ tr{
   font-size:30px;
   }
 .planet_img{
-  width:200px;
-  height:200px;
+  width:100px;
+  height:100px;
   }
 #planets{
   margin-left:auto;
